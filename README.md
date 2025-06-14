@@ -2,20 +2,20 @@
 
 # 🐔 Recipy
 
-**Recipy** is a fully offline mobile recipe app built with Flutter — no backend, just pure code. It’s designed for cooking enthusiasts who want quick access to their favorite recipes anytime, anywhere, even without an internet connection.
+**Recipy** is a fully offline mobile recipe app built with Flutter — no backend, just pure code. It’s designed for cooking enthusiasts who want quick access to curated recipes anytime, anywhere, even without an internet connection.
 
 ---
 
 ## ✨ Key Features
 
-- 📚 **Offline Recipe Management**  
-  Add, edit, and delete recipes directly in the app without needing an internet connection.
+- 📚 **Offline Access to Recipes**  
+  Browse a collection of preloaded recipes without needing an internet connection.
 
 - 🍳 **Complete Recipe Details**  
-  Save recipe names, ingredients, cooking steps, and image illustrations.
+  View recipe names, ingredients, cooking steps, and illustrative images.
 
-- 🔍 **Fast Search**  
-  Easily find recipes by name or ingredients using the built-in search feature.
+- 🔍 **Search Functionality**  
+  Quickly find recipes by keyword with the built-in search feature.
 
 - 🎨 **Clean & Modern UI**  
   A simple, intuitive interface that’s easy to use for everyone.
