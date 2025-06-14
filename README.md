@@ -1,16 +1,36 @@
-# recipy
+![Recipy Logo](assets/images/logo-recipy.png)
 
-A new Flutter project.
+# 🐔 Recipy
 
-## Getting Started
+**Recipy** is a fully offline mobile recipe app built with Flutter — no backend, just pure code. It’s designed for cooking enthusiasts who want quick access to their favorite recipes anytime, anywhere, even without an internet connection.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📚 **Offline Recipe Management**  
+  Add, edit, and delete recipes directly in the app without needing an internet connection.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🍳 **Complete Recipe Details**  
+  Save recipe names, ingredients, cooking steps, and image illustrations.
+
+- 🔍 **Fast Search**  
+  Easily find recipes by name or ingredients using the built-in search feature.
+
+- 🎨 **Clean & Modern UI**  
+  A simple, intuitive interface that’s easy to use for everyone.
+
+---
+
+## 📦 Tech Stack
+
+- **Flutter** – Main framework for building cross-platform mobile apps.
+- **Hive** – Lightweight and blazing-fast NoSQL database for local storage.
+- **Provider / Riverpod (optional)** – For scalable and structured state management.
+
+---
+
+## ❤️ Thank You
+
+Thanks for checking out **Recipy**!  
+If you like this project, feel free to give it a ⭐️
